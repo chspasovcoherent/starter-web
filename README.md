@@ -12,4 +12,8 @@ Adding perpose text ...
 
 ## Deplayment
 
+Adding deplayment text ...
+
 ## How To Contribute
+
+Adding How ot Contribute text

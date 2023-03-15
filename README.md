@@ -17,3 +17,7 @@ Adding deplayment text ...
 ## How To Contribute
 
 Adding How ot Contribute text
+
+###Copyright
+
+2023 Git.training

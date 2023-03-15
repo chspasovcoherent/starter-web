@@ -16,7 +16,7 @@ Adding deplayment text ...
 
 ## How To Contribute
 
-Adding How ot Contribute text
+Please fork this repository and then issue Pull Request for review
 
 ###Copyright
 

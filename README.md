@@ -8,6 +8,8 @@ This is Introduction example ...
 
 ## Purpose
 
+Adding perpose text ...
+
 ## Deplayment
 
 ## How To Contribute

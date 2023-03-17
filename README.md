@@ -2,6 +2,7 @@
 
 This is simple wesite project ...
 Adding line for rebasing example, more changes from my fetature to
+Update emergency fix after stash.
 
 ## Introduction
 
